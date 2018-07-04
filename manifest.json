@@ -1,0 +1,11 @@
+{
+    "name": "PWA Login",
+    "short_name":"PWA_Login",
+    "description":"Login Scania del Perú",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-PE"
+    
+}
